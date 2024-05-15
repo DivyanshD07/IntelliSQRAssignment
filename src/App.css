@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
